@@ -1,0 +1,26 @@
+.nav_bar{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+
+}
+.nav_bar a{
+    text-decoration: none;
+    color: white;
+}
+.option_container{
+    padding-right: 10px;
+   
+}
+
+.image_container{
+
+    z-index: 1;
+}
+.image_container img{
+    height: 50px;
+    width: 50px;
+}
+
